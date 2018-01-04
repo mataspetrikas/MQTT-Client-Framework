@@ -974,8 +974,8 @@
 			dependencies = (
 			);
 			name = MQTTClientiOS;
-			productName = MQTT;
-			productReference = DE9EF5C51C0628B1009EF667 /* MQTTFramework.framework */;
+			productName = MQTTClient;
+			productReference = DE9EF5C51C0628B1009EF667 /* MQTTClient.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F6D08FA31E535B6800CD2566 /* MQTTClientmacOS */ = {
@@ -992,8 +992,8 @@
 			dependencies = (
 			);
 			name = MQTTClientmacOS;
-			productName = MQTTFramework;
-			productReference = F6D08FA41E535B6800CD2566 /* MQTTFramework.framework */;
+			productName = MQTTClient;
+			productReference = F6D08FA41E535B6800CD2566 /* MQTTClient.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F6D08FD71E535E9900CD2566 /* MQTTClienttvOS */ = {
@@ -1010,8 +1010,8 @@
 			dependencies = (
 			);
 			name = MQTTClienttvOS;
-			productName = MQTTFramework;
-			productReference = F6D08FD81E535E9900CD2566 /* MQTTFramework.framework */;
+			productName = MQTTClient;
+			productReference = F6D08FD81E535E9900CD2566 /* MQTTClient.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
